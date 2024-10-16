@@ -1,4 +1,4 @@
-# DigitalOcean Deployment Workflow with GitHub Actions
+# DigitalOcean Deployment Workflow with GitHub Actions for Nextjs Project
 
 ### Overview:
 This YAML file is a **GitHub Actions** workflow configuration designed to automate the deployment of a web application named **Project** to a **DigitalOcean** server. It defines a set of instructions (jobs and steps) that are triggered when specific events occur, such as pushing code to the `main` branch or manually triggering the workflow. This workflow facilitates continuous deployment (CD) of the application to a remote server, ensuring seamless and automated updates.
